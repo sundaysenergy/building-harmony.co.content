@@ -1,4 +1,2 @@
-building-harmony.co.theme
-=========================
+# Building Harmony
 
-Building Harmony - Theme
